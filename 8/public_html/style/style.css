@@ -17,3 +17,7 @@ and open the template in the editor.
 .fill-viewport {
   min-height: 100vh 
 }
+
+.text-white-70 {
+  color: rgba(255,255,255,0.7)
+}
